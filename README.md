@@ -1,2 +1,2 @@
-# Sample
-A Sample Repository
+# Python code
+Python Commands Practise
